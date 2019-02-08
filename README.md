@@ -27,4 +27,4 @@ Laitesuositukset:
 - 1 Gt tallennustilaa
 
 
-**Distribution of this game (or any version of it) is forbidden. Use only for educational and non-commercial purposes.**
+**Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
