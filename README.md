@@ -28,3 +28,9 @@ Laitesuositukset:
 
 
 **Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
+
+*Credits:
+
+Music: Lemonjolly
+
+Other: maysion, Jaahuo*
