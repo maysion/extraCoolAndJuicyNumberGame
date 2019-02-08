@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/End Menu Lose.unity
     guid: 659469886d5c02d479ab9377708a00a4
+  - enabled: 1
+    path: Assets/Scenes/Lopputeksti.unity
+    guid: 65f95b1ce654e9d49b4ba82f84c1c101
   m_configObjects: {}

@@ -54,4 +54,8 @@ public class SceneLoader : MonoBehaviour
         Application.Quit();
     }
 
+    public void LoadCreditScreen()
+    {
+        SceneManager.LoadScene(4);
+    }
 }
