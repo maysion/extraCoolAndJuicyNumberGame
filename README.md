@@ -12,7 +12,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 
-Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päivittää tämän.
+Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päihittää tämän.
 
 Laitesuositukset:
 
