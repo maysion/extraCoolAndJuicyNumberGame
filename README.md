@@ -1,7 +1,7 @@
 # Jaakon ja Iiron projektityöskentelyn tuotos
 
 
-Pelin ohjeet:
+## Pelin ohjeet
 
 Valitse jokin numero yhden ja tuhannen väliltä. Pidä se numero vain itselläsi. 
 
@@ -13,7 +13,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päihittää tämän.
 
-Laitesuositukset:
+##Laitesuositukset
 
 - Windows 10 / Linux x86
 
@@ -26,10 +26,62 @@ Laitesuositukset:
 - 1 Gt tallennustilaa
 
 
-**Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
+## Taustaa
 
-Kreditit:
+<++>
+
+## Toinen otsikko
+
+<++>
+
+## Mitä näitä nyt olikaan
+
+<++>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Kreditit:
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
 
 Muu: maysion, Jaahuo
+
+
+**Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
