@@ -58,4 +58,18 @@ public static class ValueHolder
             max = value;
         }
     }
+
+    private static int sound;
+
+    public static int Sound
+    {
+        get
+        {
+            return sound;
+        }
+        set
+        {
+            sound = value;
+        }
+    }
 } 

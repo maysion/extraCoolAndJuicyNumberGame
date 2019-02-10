@@ -1008,7 +1008,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 79842d4d85cd72e42ac15eff9527ac73, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1105,6 +1105,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myAudioClipsList: []
+  arvausArvo: 0
+  aanenTaso: 0
 --- !u!4 &940933363
 Transform:
   m_ObjectHideFlags: 0
