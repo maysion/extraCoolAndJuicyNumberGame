@@ -1,5 +1,4 @@
-# extraVirginNumberGame
-Ei hitto mikä peli.
+# Jaakon ja Iiron projektityöskentelyn tuotos
 
 
 Pelin ohjeet:
