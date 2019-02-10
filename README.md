@@ -1,5 +1,16 @@
-# Jaakon ja Iiron projektityöskentelyn tuotos
+# Jaakon ja Iiron projektityöskentelyn esitys
 
+## Taustaa
+
+<++>
+
+## Toinen otsikko
+
+<++>
+
+## Mitä näitä nyt olikaan
+
+<++>
 
 ## Pelin ohjeet
 
@@ -13,7 +24,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päihittää tämän.
 
-##Laitesuositukset
+## Laitesuositukset
 
 - Windows 10 / Linux x86
 
@@ -25,18 +36,6 @@ Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaa
 
 - 1 Gt tallennustilaa
 
-
-## Taustaa
-
-<++>
-
-## Toinen otsikko
-
-<++>
-
-## Mitä näitä nyt olikaan
-
-<++>
 
 
 
