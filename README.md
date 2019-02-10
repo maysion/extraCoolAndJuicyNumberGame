@@ -1,18 +1,16 @@
-# Jaakon ja Iiron projektityöskentelyn esitys
-
-## Taustaa
+# Projektin taustaa
 
 <++>
 
-## Toinen otsikko
+# Toinen otsikko
 
 <++>
 
-## Mitä näitä nyt olikaan
+# Mitä näitä nyt olikaan
 
 <++>
 
-## Pelin ohjeet
+# Pelin ohjeet
 
 Valitse jokin numero yhden ja tuhannen väliltä. Pidä se numero vain itselläsi. 
 
@@ -24,7 +22,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päihittää tämän.
 
-## Laitesuositukset
+# Laitesuositukset
 
 - Windows 10 / Linux x86
 
