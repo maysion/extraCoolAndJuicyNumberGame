@@ -29,8 +29,8 @@ Laitesuositukset:
 
 **Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
 
-*Credits:
+Kreditit:
 
-Music: Lemonjolly
+Musiikki ja äänet: Lemonjolly, Sirkoto51
 
-Other: maysion, Jaahuo*
+Muu: maysion, Jaahuo
