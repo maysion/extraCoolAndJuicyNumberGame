@@ -20,17 +20,17 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 
-Pelin veleholta lähtee yksi (1) vaatekappale päältään joka kerta, kun pelaaja päihittää tämän.
+Android julkaisu, äänentason muuttaminen, velehojen vaihtaminen, (Mod support?)
 
 # Laitesuositukset
 
 - Windows 10 / Linux x86
 
-- Intel UHD 600 Graphics (tai parempi)
+- Intel® HD Graphics 4000  (tai parempi)
 
-- Intel i3 -prosessori (tai parempi)
+- Intel® i3 -prosessori (tai parempi)
 
-- 4 Gt keskusmuistia
+- 2 Gt keskusmuistia
 
 - 1 Gt tallennustilaa
 
