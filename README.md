@@ -78,7 +78,13 @@ Android julkaisu, äänentason muuttaminen, velehojen vaihtaminen, (Mod support?
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
 
-Muu: maysion, Jaahuo
+Suunnittelu: maysion, Jaahuo
+
+Grafiikat ja teksti: maysion
+
+Ohjelmointi ja pelin rakentaminen: Jaahuo
 
 
-**Distribution of any version of this game is forbidden. Use only for educational and non-commercial purposes.**
+
+
+**Copying and/or distribution of any version of this game and it's assets is strictly forbidden. Use only for educational and non-commercial purposes.**
