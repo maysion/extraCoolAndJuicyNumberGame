@@ -41,7 +41,9 @@ Risuja tai ruusuja? Me arvostamme teidän palautetta. Voitte antaa palautetta
 lähettämällä viestin osoitteeseen
 
 Iiro Aarnio
+
 Poste Restante
+
 36200 KANGASALA
 
 
