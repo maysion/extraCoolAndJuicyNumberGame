@@ -3,15 +3,13 @@
 Projektin tiiminä on Jaakko Huomo (projektipäällikkö) ja Iiro Aarnio
 (rottatyöntekijä).
 
-<++> // Kesken
+Projekti aloitettiin tammikuussa 2019 ja valmistui <++>
 
-# Toinen otsikko
+# Lataa meidän peli!
 
-<++>
-
-# Mitä näitä nyt olikaan
-
-<++>
+Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
+Löydät Windows- ja Linux-version
+[tästä](https://github.com/maysion/projektipeli/releases).
 
 # Pelin ohjeet
 
@@ -37,13 +35,14 @@ Android julkaisu, äänentason muuttaminen, velehojen vaihtaminen, (Mod support?
 
 - 1 Gt tallennustilaa
 
+# Anna palautetta!
 
+Risuja tai ruusuja? Me arvostamme teidän palautetta. Voitte antaa palautetta
+lähettämällä viestin osoitteeseen
 
-
-
-
-
-
+Iiro Aarnio
+Poste Restante
+36200 KANGASALA
 
 
 
