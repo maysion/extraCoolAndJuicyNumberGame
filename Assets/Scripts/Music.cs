@@ -5,34 +5,35 @@ using UnityEngine;
 public class Music : MonoBehaviour
 {
     private AudioSource _audioSource;
+    //[SerializeField] float aanenTaso;
+    int sound;
+    string music;
     [SerializeField] float aanenTaso;
-    public int sound;
 
     private void Awake()
     {
-        DontDestroyOnLoad(transform.gameObject);
-        _audioSource = GetComponent<AudioSource>();
-        _audioSource.volume = aanenTaso;
-        _audioSource.loop = true;
-    }
-
-    public void PlayMusic()
-    {
-        if (_audioSource.isPlaying) return;
-        _audioSource.Play();
-    }
-
-    public void aaniPoisPaalle()
-    {
-        sound = ValueHolder.Sound;
-        if (sound == 0)
+        music = ValueHolder.Music;
+        if (music == "on")
         {
-            _audioSource.volume = aanenTaso;
+            Debug.Log("Musiikki on jo päällä");
         }
         else
         {
-            _audioSource.volume = 0;
+            DontDestroyOnLoad(transform.gameObject);
+            _audioSource = GetComponent<AudioSource>();
+            AudioListener.volume = aanenTaso;
+            _audioSource.Play();
+            ValueHolder.Music = "on";
         }
     }
+
+    //public void MutetaAani()
+    //{
+    //    sound = ValueHolder.Sound;
+    //    if (sound == 1)
+    //    {
+
+    //    }
+    //}
 
 }

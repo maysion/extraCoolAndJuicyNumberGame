@@ -1,6 +1,9 @@
 # Projektin taustaa
 
-<++>
+Projektin tiiminä on Jaakko Huomo (projektipäällikkö) ja Iiro Aarnio
+(rottatyöntekijä).
+
+<++> // Kesken
 
 # Toinen otsikko
 
@@ -12,11 +15,11 @@
 
 # Pelin ohjeet
 
-Valitse jokin numero yhden ja tuhannen väliltä. Pidä se numero vain itselläsi. 
+Valitse jokin numero yhden ja tuhannen väliltä. Pidä se numero vain itselläsi.
 
 Yritä saada numeroveleho arvaamaan numerosi auttamalla häntä kertomalla, onko numerosi pienempi vai suurempi hänen arvauksestaan.
 
-Hänellä on kuitenkin vain 10 arvausta. 
+Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 

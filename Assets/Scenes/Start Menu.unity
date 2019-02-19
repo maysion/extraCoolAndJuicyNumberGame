@@ -239,9 +239,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myAudioClipsList: []
-  arvausArvo: 0
-  aanenTaso: 0.25
-  sound: 0
 --- !u!4 &182567370
 Transform:
   m_ObjectHideFlags: 0
@@ -871,8 +868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da7a3943e76829445b4728188e024cad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aanenTaso: 0.025
-  sound: 0
+  aanenTaso: 0.25
 --- !u!82 &925287003
 AudioSource:
   m_ObjectHideFlags: 0
@@ -884,8 +880,8 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5d50e873124456440afe159b341dacfd, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
+  m_PlayOnAwake: 0
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1060,6 +1056,7 @@ MonoBehaviour:
   sound_off: {fileID: 21300000, guid: d259d35632dedeb47b51473966673b3a, type: 3}
   sound_on: {fileID: 21300000, guid: 571305dd59ab3f847acedabc3dd04c2e, type: 3}
   but: {fileID: 1722805787}
+  aanenTaso: 0.3
 --- !u!4 &962124632
 Transform:
   m_ObjectHideFlags: 0

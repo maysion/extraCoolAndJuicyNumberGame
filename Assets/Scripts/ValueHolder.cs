@@ -59,17 +59,17 @@ public static class ValueHolder
         }
     }
 
-    private static int sound;
+    private static string music;
 
-    public static int Sound
+    public static string Music
     {
         get
         {
-            return sound;
+            return music;
         }
         set
         {
-            sound = value;
+            music = value;
         }
     }
 } 
