@@ -33,7 +33,7 @@ mikromaksuilla.
 
 # Laitesuositukset
 
-- Windows 10 / Linux x86
+- Windows 10 64bit / Linux x86
 
 - Intel® HD Graphics 4000  (tai parempi)
 
