@@ -27,6 +27,10 @@ Hänellä on kuitenkin vain 10 arvausta.
 Androidversio, äänentason muuttaminen, uusien velhojen avaaminen
 mikromaksuilla.
 
+
+# Dokumentaatio
+[Lataa esityksessä käytetyt diat (PDF)](https://drive.google.com/)
+
 # Laitesuositukset
 
 - Windows 10 / Linux x86
