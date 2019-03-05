@@ -3,9 +3,12 @@
 Projektin tiiminä on Jaakko Huomo (projektipäällikkö) ja Iiro Aarnio
 (rottatyöntekijä).
 
-Projekti aloitettiin tammikuussa 2019 ja valmistui <++>
+Projekti aloitettiin tammikuussa 2019 ja samana vuonna, maaliskuun alussa.
 
-# Lataa meidän peli!
+Projektin tarkoituksena oli luoda tietokoneilla pelattava yksinkertainen peli
+ja harjoitella projektityöskentelyn taitoja.
+
+# Lataa meidän peli!!!
 
 Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
 Löydät Windows- ja Linux-version
@@ -21,7 +24,8 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 
-Android julkaisu, äänentason muuttaminen, velehojen vaihtaminen, (Mod support?)
+Androidversio, äänentason muuttaminen, uusien velhojen avaaminen
+mikromaksuilla.
 
 # Laitesuositukset
 
