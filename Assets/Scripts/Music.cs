@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class Music : MonoBehaviour
 {
-    private AudioSource _audioSource;
+    private AudioSource audioLahde;
     //[SerializeField] float aanenTaso;
     int sound;
     string music;
-    [SerializeField] float aanenTaso;
+    [SerializeField] float musiikinAanenTaso;
 
     private void Awake()
     {
+
+        audioLahde = GetComponent<AudioSource>();
+
         music = ValueHolder.Music;
         if (music == "on")
         {
@@ -20,20 +23,14 @@ public class Music : MonoBehaviour
         else
         {
             DontDestroyOnLoad(transform.gameObject);
-            _audioSource = GetComponent<AudioSource>();
-            AudioListener.volume = aanenTaso;
-            _audioSource.Play();
+            audioLahde.volume = musiikinAanenTaso;
+            audioLahde.Play();
             ValueHolder.Music = "on";
         }
     }
 
-    //public void MutetaAani()
-    //{
-    //    sound = ValueHolder.Sound;
-    //    if (sound == 1)
-    //    {
-
-    //    }
-    //}
-
+    public void MusiikinAanetPaalle()
+    {
+        audioLahde.volume = musiikinAanenTaso;
+    }
 }

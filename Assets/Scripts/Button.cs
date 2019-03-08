@@ -6,10 +6,33 @@ using UnityEngine.SceneManagement;
 
 public class Button : MonoBehaviour {
 
+    Music AudioMusic = new Music();
+    Audio AudioSound = new Audio();
+
+    [SerializeField] public float aanenTasoLmao;
+
     public Sprite sound_off;
     public Sprite sound_on;
     public Image but;
-    [SerializeField] float aanenTaso;
+    public void Start()
+    {
+
+        //var aani = GameObject.Find("Music"); // find the object
+        //aani.transform.GetComponent(audioLahde).MusiikinAanetPaalle();
+
+        if (ValueHolder.Aanet == 1)
+        {
+            but.sprite = sound_on;
+            AudioListener.volume = 0;
+        }
+        else
+        {
+            but.sprite = sound_off;
+            ValueHolder.Aanet = 2;
+            AudioListener.volume = aanenTasoLmao;
+            //AudioMusic.MusiikinAanetPaalle();
+        }
+    }
 
     public void ChangeImage()
     {
@@ -17,11 +40,14 @@ public class Button : MonoBehaviour {
         {
             but.sprite = sound_on;
             AudioListener.volume = 0;
+            ValueHolder.Aanet = 1;
         }   
         else
         {
             but.sprite = sound_off;
-            AudioListener.volume = aanenTaso;
+            ValueHolder.Aanet = 2;
+            AudioListener.volume = aanenTasoLmao;
+            //AudioMusic.MusiikinAanetPaalle();
         }
 
     }

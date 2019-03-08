@@ -72,4 +72,46 @@ public static class ValueHolder
             music = value;
         }
     }
+
+    private static float musiikinAanentaso;
+
+    public static float MusiikinAanentaso
+    {
+        get
+        {
+            return musiikinAanentaso;
+        }
+        set
+        {
+            musiikinAanentaso = value;
+        }
+    }
+
+    private static float aanienAanentaso;
+
+    public static float AanienAanentaso
+    {
+        get
+        {
+            return aanienAanentaso;
+        }
+        set
+        {
+            aanienAanentaso = value;
+        }
+    }
+
+    private static int aanet;
+
+    public static int Aanet
+    {
+        get
+        {
+            return aanet;
+        }
+        set
+        {
+            aanet = value;
+        }
+    }
 } 
