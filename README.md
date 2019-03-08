@@ -14,6 +14,8 @@ Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
 Löydät Windows- ja Linux-version
 [tästä](https://github.com/maysion/projektipeli/releases).
 
+[tästä]({{ site.baseurl }}/projektipeli/releases)
+
 # Pelin ohjeet
 
 Valitse jokin numero yhden ja tuhannen väliltä. Pidä se numero vain itselläsi.

@@ -1,4 +1,7 @@
 theme: jekyll-theme-midnight
-title: [Number Wizard -peli]
+title: Number Wizard -peli
 description: [Siisti koulutyö]
+encoding: UTF-8
 show_downloads: true
+url: https://maysion.github.io
+baseurl: /projektipeli
