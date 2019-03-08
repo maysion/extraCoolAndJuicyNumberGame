@@ -29,11 +29,13 @@ mikromaksuilla.
 
 
 # Dokumentaatio
-[Lataa esityksessä käytetyt diat(PDF)](https://maysion.github.io/projektipeli/esitys_peli_iiro_jaakko.odp/)
+[Lataa esityksessä käytetyt diat (PDF)](https://drive.google.com/file/d/1rBuzHM-u-hnHj39rjAzfpyfg1N9Rbasa/view?usp=sharing)
+
+[Lataa tämä dokumentaatio](https://drive.google.com/file/d/13oTA2YwAn6yO9cIpN5UUctrOh0izmVkC/view?usp=sharing)
 
 # Laitesuositukset
 
-- Windows 10 64bit / Linux x86
+- Windows 10 64bit / Linux x86_64
 
 - Intel® HD Graphics 4000  (tai parempi)
 
