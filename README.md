@@ -11,8 +11,7 @@ ja harjoitella projektityöskentelyn taitoja.
 # Lataa meidän peli!!!
 
 Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
-Löydät Windows- ja Linux-version
-[tästä](https://github.com/maysion/projektipeli/releases).
+Löydät Windows-, Linux- ja Android-version [tästä](https://github.com/maysion/projektipeli/releases).
 
 
 # Pelin ohjeet
@@ -36,7 +35,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 # Laitesuositukset
 
 ## Tietokone
--
+
 - Windows 10 64bit / Linux x86_64
 
 - Intel® HD Graphics 4000  (tai parempi)
