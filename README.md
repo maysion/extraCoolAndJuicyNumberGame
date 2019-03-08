@@ -28,7 +28,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 
 # Dokumentaatio
-[Lataa esityksessä käytetyt diat (PDF)](https://drive.google.com/file/d/1PAtDgfT4ZYsPRYSa1NkZMNHDbLFj4Wsm/view?usp=sharing)
+[Lataa esityksessä käytetyt diat (PDF)](https://drive.google.com/file/d/1BG2M9PXe4YI_KvkXx3aO6FurjFeliAkn/view?usp=sharing)
 
 [Lataa tämä dokumentaatio](https://drive.google.com/file/d/13oTA2YwAn6yO9cIpN5UUctrOh0izmVkC/view?usp=sharing)
 
