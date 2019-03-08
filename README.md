@@ -12,9 +12,8 @@ ja harjoitella projektityöskentelyn taitoja.
 
 Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
 Löydät Windows- ja Linux-version
-[tästä](https://github.com/maysion/projektipeli/releases).
+[tästä]({{ site.baseurl }}/releases).
 
-[tästä]({{ site.baseurl }}/projektipeli/releases)
 
 # Pelin ohjeet
 
