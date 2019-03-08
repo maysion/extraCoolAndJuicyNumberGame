@@ -29,8 +29,7 @@ mikromaksuilla.
 
 
 # Dokumentaatio
-[Lataa esityksessä käytetyt diat
-(PDF)](https://maysion.github.io/esitys_peli_iiro_jaakko.odp/)
+[Lataa esityksessä käytetyt diat(PDF)](https://maysion.github.io/esitys_peli_iiro_jaakko.odp/)
 
 # Laitesuositukset
 
