@@ -12,7 +12,7 @@ ja harjoitella projektityöskentelyn taitoja.
 
 Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
 Löydät Windows- ja Linux-version
-[tästä]({{ site.baseurl }}/releases).
+[tästä]({{ site.baseurl }}/releases/).
 
 
 # Pelin ohjeet
