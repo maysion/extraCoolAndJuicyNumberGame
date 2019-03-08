@@ -53,11 +53,13 @@ Pelaajat voivat antaa palautetta Githubin _issues_-sivulla.
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
 
-Suunnittelu: maysion, Jaahuo
+Suunnittelu: Jaakko, Iiro
 
-Grafiikat ja teksti: maysion
+Grafiikat ja teksti: Iiro
 
-Ohjelmointi ja pelin rakentaminen: Jaahuo
+Ohjelmointi: Jaakko
+
+Pelin rakentaminen ja kokoonpano: Jaakko, Iiro
 
 
 
