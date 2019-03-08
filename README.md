@@ -25,8 +25,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 
-Androidversio, äänentason muuttaminen, uusien velhojen avaaminen
-mikromaksuilla.
+Äänentason muuttaminen, uusien velhojen avaaminen mikromaksuilla.
 
 
 # Dokumentaatio
@@ -36,6 +35,8 @@ mikromaksuilla.
 
 # Laitesuositukset
 
+## Tietokone
+-
 - Windows 10 64bit / Linux x86_64
 
 - Intel® HD Graphics 4000  (tai parempi)
@@ -45,6 +46,10 @@ mikromaksuilla.
 - 2 Gt keskusmuistia
 
 - 1 Gt tallennustilaa
+
+## Mobiililaite
+
+- Android 8.1 (tai uudempi)
 
 # Anna palautetta!
 
