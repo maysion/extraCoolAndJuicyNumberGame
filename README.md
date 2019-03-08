@@ -46,47 +46,9 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 # Anna palautetta!
 
-Risuja tai ruusuja? Me arvostamme teidän palautetta. Voitte antaa palautetta
-lähettämällä viestin osoitteeseen
+Risuja tai ruusuja? Me arvostamme teidän palautetta.
 
-Iiro Aarnio
-
-Poste Restante
-
-36200 KANGASALA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pelaajat voivat antaa palautetta Githubin _issues_-sivulla.
 ## Kreditit:
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
