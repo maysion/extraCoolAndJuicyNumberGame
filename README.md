@@ -34,7 +34,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 # Laitesuositukset
 
-- Windows 10 64bit / Linux x86_64 / Android 8.1+
+- Windows 10 64 bit / Linux x86_64 / Android 8.1+
 
 - Intel® HD Graphics 4000  (tai parempi)
 
@@ -48,7 +48,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 Risuja tai ruusuja? Me arvostamme teidän palautetta.
 
-Pelaajat voivat antaa palautetta Githubin _issues_-sivulla.
+Palautetta voi antaa Githubin _issues_-sivulla.
 ## Kreditit:
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
