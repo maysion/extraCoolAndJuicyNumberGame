@@ -10,10 +10,7 @@ ja harjoitella projektityöskentelyn taitoja.
 
 # Lataa meidän peli!!!
 
-Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
-Löydät Windows-, Linux- ja Android-version [täältä](https://github.com/maysion/projektipeli/releases/tag/v0.9.2-final).
-
-Mikäli haluat testata peliämme, voit ladata sen nyt joko tietokoneellesi tai Android-laitteellesi!
+Mikäli haluat testata peliämme, voit ladata sen nyt tietokoneellesi tai Android-laitteellesi!
 Löydät Windows-, Linux- ja Android-version [tästä](https://github.com/maysion/projektipeli/releases).
 
 # Pelin ohjeet
