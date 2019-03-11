@@ -11,8 +11,10 @@ ja harjoitella projektityöskentelyn taitoja.
 # Lataa meidän peli!!!
 
 Jos kiinnostuit pelistämme, voit ladata sen nyt ilmaiseksi koneellesi!
-Löydät Windows-, Linux- ja Android-version [tästä](https://github.com/maysion/projektipeli/releases/tag/v0.9.2-final).
+Löydät Windows-, Linux- ja Android-version [täältä](https://github.com/maysion/projektipeli/releases/tag/v0.9.2-final).
 
+Mikäli haluat testata peliämme, voit ladata sen nyt joko tietokoneellesi tai Android-laitteellesi!
+Löydät Windows-, Linux- ja Android-version [tästä](https://github.com/maysion/projektipeli/releases).
 
 # Pelin ohjeet
 
@@ -34,7 +36,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 # Laitesuositukset
 
-- Windows 10 64bit / Linux x86_64 / Android 8.1+
+- Windows 10 64 bit / Linux x86_64 / Android 8.1+
 
 - Intel® HD Graphics 4000  (tai parempi)
 
@@ -48,7 +50,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 Risuja tai ruusuja? Me arvostamme teidän palautetta.
 
-Pelaajat voivat antaa palautetta Githubin _issues_-sivulla.
+Palautetta voi antaa Githubin _issues_-sivulla.
 ## Kreditit:
 
 Musiikki ja äänet: Lemonjolly, Sirkoto51
