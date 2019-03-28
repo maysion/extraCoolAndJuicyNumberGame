@@ -23,7 +23,7 @@ Hänellä on kuitenkin vain 10 arvausta.
 
 // Tulossa olevat ominaisuudet
 
-Äänentason muuttaminen, uusien velhojen avaaminen mikromaksuilla.
+Kesken eräisten ominaisuuksien viimeistely, äänentason muuttaminen, uusien velhojen avaaminen mikromaksuilla.
 
 
 # Dokumentaatio
